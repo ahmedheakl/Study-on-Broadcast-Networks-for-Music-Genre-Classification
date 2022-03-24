@@ -10,3 +10,17 @@ a small set of parameters (about 180k) and investigate twelve variants of broadc
 activation function, normalization mechanism, labelsmoothing, channel interdependency, LSTM block inclusion, and variants of inception schemes.
 Our computational experiments using relevant datasets such as GTZAN, Extended Ballroom, HOMBURG, and Free Music Archive (FMA) show the stateof-the-art
 classification accuracies in MGC. Our approach offers insights and the potential to enable compact and generalizable broadcast networks for music classification.
+
+# Usage
+First, you need to process your data and convert it to a spectrogram. We used librosa framework for this task. 
+You will find the code implementation for the preprocessing in ```BBNN-Preprocessing-GTZAN-tf.ipynb``` file for GTZAN dataset and ```BBNN-Preprocessing-FMA-tf.ipynb``` for FMA dataset. 
+
+To use our model's implementation, just download the implementation files and retrain the model on any of the following datasets:
+. GTZAN
+. FMA
+. HOMBURG
+. Extended Ballroom 
+
+# Output 
+According to your label encoding in the preprocessing stage, the model outputs a one hot vector with dimension `(num_classes, 1)` for each sample input.
+
