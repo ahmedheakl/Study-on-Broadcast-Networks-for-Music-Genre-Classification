@@ -26,5 +26,5 @@ According to your label encoding in the preprocessing stage, the model outputs a
 
 # Model Architecture
 The model is an improvement over Broadcast networks with lowered number of parameters an higher classification accuracy: 
-![model architecture]([http://url/to/img.png](https://github.com/ahmedheakl/Study-on-Broadcast-Networks-for-Music-Genre-Classification/blob/main/Our-model.png))
+![Model architecture](https://github.com/ahmedheakl/Study-on-Broadcast-Networks-for-Music-Genre-Classification/blob/main/Our-model.png)
 
