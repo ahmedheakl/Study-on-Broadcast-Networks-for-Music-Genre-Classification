@@ -28,3 +28,8 @@ According to your label encoding in the preprocessing stage, the model outputs a
 The model is an improvement over Broadcast networks with lowered number of parameters an higher classification accuracy: 
 ![Model architecture](https://github.com/ahmedheakl/Study-on-Broadcast-Networks-for-Music-Genre-Classification/blob/main/Our-model.png)
 
+
+#Paper Link
+
+Here is the <a href="https://arxiv.org/abs/2208.12086" target="_blank">Paper Link</a>
+
