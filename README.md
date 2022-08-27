@@ -29,7 +29,7 @@ The model is an improvement over Broadcast networks with lowered number of param
 ![Model architecture](https://github.com/ahmedheakl/Study-on-Broadcast-Networks-for-Music-Genre-Classification/blob/main/Our-model.png)
 
 
-#Paper Link
+# Paper Link
 
 Here is the <a href="https://arxiv.org/abs/2208.12086" target="_blank">Paper Link</a>
 
